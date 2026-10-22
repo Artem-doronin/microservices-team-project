@@ -23,9 +23,9 @@
 
 | # | Сервис | Ответственность | Мой вклад | Ссылка на ветку / репозиторий |
 |---|---|---|---|---|
-| 1 | **URL Shortener** | Сокращение ссылок | Самостоятельная разработка сервиса: генерация коротких кодов, редиректы, хранение в БД | [titan-ArtemUrlShortener-stream9](https://github.com/Artem-doronin/url_shortener_service/tree/titan-ArtemUrlShortener-stream9) |
+| 1 | **URL Shortener** | Сокращение ссылок | Самостоятельная разработка сервиса: генерация коротких кодов, редиректы, хранение в БД | [UrlShortener](https://github.com/Artem-doronin/url_shortener_service/tree/titan-ArtemUrlShortener-stream9) |
 | 2 | **PostService** | Посты пользователей | Командная разработка: CRUD-логика постов, работа с PostgreSQL | [post_service](https://github.com/Artem-doronin/post_service) |
-| 3 | **UserService** | Профили пользователей | Командная разработка: регистрация и обновление профилей | [user_service](https://github.com/Artem-doronin/user_service/commits/titan-master-stream9)) | 
+| 3 | **UserService** | Профили пользователей | Командная разработка: регистрация и обновление профилей | [user_service](https://github.com/Artem-doronin/user_service/commits/titan-master-stream9) | 
 | 4 | **ProjectService** | Стартап-проекты | Командная разработка: логика создания и ведения проектов | [project_service](https://github.com/Artem-doronin/project_service) |
 | 5 | **PaymentService** | Платежи | Командная разработка: обработка транзакций и статусов оплаты | [payment_service](https://github.com/Artem-doronin/payment_service) |
 | 6 | **NotificationService** | Уведомления | Командная разработка: отправка уведомлений по событиям | [notification_service](https://github.com/Artem-doronin/notification_service) |
