@@ -29,7 +29,7 @@
 | 4 | **ProjectService** | Стартап-проекты | Командная разработка: логика создания и ведения проектов | [project_service](https://github.com/Artem-doronin/project_service/tree/titan-master-stream9) |
 | 5 | **PaymentService** | Платежи | Командная разработка: обработка транзакций и статусов оплаты | [payment_service](https://github.com/Artem-doronin/payment_service/tree/titan-master-stream9) |
 | 6 | **NotificationService** | Уведомления | Командная разработка: отправка уведомлений по событиям | [notification_service](https://github.com/Artem-doronin/notification_service/tree/titan-master-stream9) |
-| 7 | **AnalyticsService** | Аналитика | Командная разработка: сбор и агрегация метрик активности | [analytics_service](https://github.com/Artem-doronin/analytics_service) |
+| 7 | **AnalyticsService** | Аналитика | Командная разработка: сбор и агрегация метрик активности | [analytics_service](https://github.com/Artem-doronin/analytics_service/tree/titan-master-stream9) |
 | 8 | **AchievementService** | Система достижений | Командная разработка на event-driven подходе: подписка на события, начисление достижений | [achievement_service](https://github.com/Artem-doronin/achievement_service) |
 | 9 | **AccountService** | Аккаунты | Командная разработка: управление аккаунтами и балансом | [account_service](https://github.com/Artem-doronin/account_service/tree/titan-master-stream9) |
 
