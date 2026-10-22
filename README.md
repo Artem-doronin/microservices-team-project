@@ -31,7 +31,7 @@
 | 6 | **NotificationService** | Уведомления | Командная разработка: отправка уведомлений по событиям | [notification_service](https://github.com/Artem-doronin/notification_service) |
 | 7 | **AnalyticsService** | Аналитика | Командная разработка: сбор и агрегация метрик активности | [analytics_service](https://github.com/Artem-doronin/analytics_service) |
 | 8 | **AchievementService** | Система достижений | Командная разработка на event-driven подходе: подписка на события, начисление достижений | [achievement_service](https://github.com/Artem-doronin/achievement_service) |
-| 9 | **AccountService** | Аккаунты | Командная разработка: управление аккаунтами и балансом | [account_service](https://github.com/Artem-doronin/account_service) |
+| 9 | **AccountService** | Аккаунты | Командная разработка: управление аккаунтами и балансом | [account_service](https://github.com/Artem-doronin/account_service/tree/titan-master-stream9) |
 
 
 ## 🔄 Event-driven взаимодействие
